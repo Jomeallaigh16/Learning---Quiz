@@ -1,6 +1,6 @@
 # Learning---Quiz
-First Phython learning program
-print()
+First Phython learning program.
+
 A quick and easy sports related quiz to test inputs and coding in order to create a fully functioning, yet simple, quiz/program.
 
 Built using IDLE(python 3.14)
